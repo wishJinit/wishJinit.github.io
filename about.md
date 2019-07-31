@@ -8,6 +8,8 @@ permalink: /about/
 
 
 
+
+
 ## YouJin Jin [wishJinit]
 
 - Seoul. South Korea.
@@ -15,10 +17,14 @@ permalink: /about/
 
 
 
+
+
 ## Connect
 
 - Email : wishJinit@gmail.com
-- Github : https://github.com/wishJinit
+- Github : [https://github.com/wishJinit](https://github.com/wishJinit)
+
+
 
 
 
@@ -31,11 +37,15 @@ permalink: /about/
 
 
 
+
+
 ## Android Skills
 
 - Language : Java, Kotlin
 - Net : OkHttp, Retrofit, Volley, Volleyer
 - Json Parsing : Gson
+
+
 
 
 
@@ -84,7 +94,7 @@ permalink: /about/
   - 특허일자 : 2017.11.24
 - [보라매청소년수련관 봉사동아리 "더브러한마음"](https://www.facebook.com/youthpluslove/)
 
-#### 2016
+### 2016
 
 - 2016 YIP 청소년 발명가 프로그램 (금호전기)  <특허청장상>
 
