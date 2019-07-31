@@ -8,8 +8,6 @@ permalink: /about/
 
 
 
-
-
 ## YouJin Jin [wishJinit]
 
 - Seoul. South Korea.
@@ -17,14 +15,10 @@ permalink: /about/
 
 
 
-
-
 ## Connect
 
 - Email : wishJinit@gmail.com
 - Github : [https://github.com/wishJinit](https://github.com/wishJinit)
-
-
 
 
 
@@ -37,15 +31,11 @@ permalink: /about/
 
 
 
-
-
 ## Android Skills
 
 - Language : Java, Kotlin
 - Net : OkHttp, Retrofit, Volley, Volleyer
 - Json Parsing : Gson
-
-
 
 
 
@@ -56,10 +46,8 @@ permalink: /about/
 - 가영세라믹스 iPad 어플리케이션 개발 (iOS)
 
 - 가영세라믹스 DID 어플리케이션 개발 (안드로이드)
-
 - 아모레퍼시픽 키오스크 개발 (안드로이드)
 - BMW 스타필드 위례점 관리자앱 보수 (안드로이드)
-
 - BMW 스타필드 위례점 키오스크 개발 (안드로이드)
 
 ### 2018
