@@ -3,7 +3,7 @@ layout: post
 title:  "초초급 개발자가 쓰는 [안드로이드 컨퍼런스] 우리 회사는 이렇게 개발해요 참가 후기"
 date:   2019-08-19 20:19:30
 author: wishJinit
-categories: 세미나 후기
+categories: 세미나후기
 ---
 
 
