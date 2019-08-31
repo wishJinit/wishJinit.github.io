@@ -144,7 +144,7 @@ A. 그건 바로 [[안드로이드 컨퍼런스]우리 회사는 이렇게 개�
 
 # 후기
 
-<img width = "450px" height = "430px" src = "image/2019-08-18-1/participation.JPG">
+<img width = "450px" height = "430px" src = "/image/2019-08-18-1/participation.JPG">
 
 <br>
 
