@@ -80,7 +80,7 @@ A. [[GDG] Kotlin/Everywhere Seoul 2019](https://festa.io/events/422) !
 
 # 후기
 
-<img width = "450px" height = "430px" src = "/image/2019-10-01-1/IMG_9966.JPG">
+<img width = "450px" height = "450px" src = "/image/2019-10-01-1/IMG_0496.JPG">
 
 <br>
 
