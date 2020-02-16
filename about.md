@@ -1,3 +1,4 @@
+﻿
 ---
 layout: page
 title: About
@@ -12,6 +13,9 @@ permalink: /about/
 
 - Seoul. South Korea.
 - Android Developer
+- Worked in SQISoft
+- Working in Howlab
+- Studing in Nexters
 
 
 
@@ -34,12 +38,23 @@ permalink: /about/
 ## Android Skills
 
 - Language : Java, Kotlin
+- Architecture: MVC, MVVM
 - Net : OkHttp, Retrofit, Volley, Volleyer
+- Rx : RxJava
 - Json Parsing : Gson
 
 
 
 ## Activity
+
+### Github
+![Github Image](https://ghchart.rshah.org/wishJinit)
+
+
+### 2020
+- IT동아리  ["Nexters"](http://teamnexters.com/) 16기 활동
+- ["Nexters"](http://teamnexters.com/) 16기
+  - Frutto 개발 (안드로이드)
 
 ### 2019
 
@@ -48,6 +63,10 @@ permalink: /about/
 - 아모레퍼시픽 키오스크 개발 (안드로이드)
 - BMW 스타필드 위례점 관리자앱 보수 (안드로이드)
 - BMW 스타필드 위례점 키오스크 개발 (안드로이드)
+- 키오스크 컨트롤러개발 (Arduino)
+- 키오스크 유지보수 (안드로이드)
+- WeatherCam 개발 (안드로이드)
+- Fontchecker 개발 (안드로이드)
 
 ### 2018
 
