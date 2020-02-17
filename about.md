@@ -71,30 +71,24 @@ permalink: /about/
 ### 2018
 
 - 2018 은평구 자원봉사자 동장 수여
-
 - Mirim Software Competition
   - Coin <우수상>
-
 - Mirim IT Show
   - [깨깨토끼](https://github.com/wishJinit/GGAEGGAE_Rabbit) (Unity/C#)
   - Cleander (PHP)
   - CU (JSP)
 - 관악구청소년회관 "부스운영단"
-
 - 2018 YIP 청소년 발명가 프로그램 (개인)  <한국발명진흥회장상>
 
 ### 2017
 
 - Mirim Software Competition
   - [You Go Girl](https://github.com/wishJinit/YouGoGirl) (Unity/C#)
-
 - Mirim Software Show 
   - [You Go Girl](https://github.com/wishJinit/YouGoGirl) (Unity/C#)
   - [깨깨토끼](https://github.com/wishJinit/GGAEGGAE_Rabbit) (Unity/C#)
   - 쉿 과제중!
-
-- 12TH APPJAM <장려상>
-
+- 12TH APPJAM <장려상>
 - 2017 YIP 청소년 발명가 프로그램 (아모레퍼시픽)  <한국발명진흥회장상> **[* 특허발급]**
   - 특허번호 : 1020170158533
   - 특허일자 : 2017.11.24
